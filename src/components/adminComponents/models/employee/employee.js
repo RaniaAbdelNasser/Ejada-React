@@ -53,7 +53,7 @@ const Employees = () => {
     );
   return (
     <>
-      <Col lg={7} className=" p-0 m-0">
+      <Col lg={7} md={7}  className=" p-0 m-0">
         <div className="style-changpaa-ti border-bottom">Employee</div>
         <Col lg={11} className="mt-3">
           <Link to="admin/addemployees">
@@ -64,7 +64,7 @@ const Employees = () => {
             </Button>
           </Link>
           <Row className="m-2">
-            <Col lg={12}>
+            <Col lg={12} sm={12} md={12}>
               <SearchBox value={searchQuery} onChange={handleSearch} />
               <TablesEmployees employeeList={filtered} />
 

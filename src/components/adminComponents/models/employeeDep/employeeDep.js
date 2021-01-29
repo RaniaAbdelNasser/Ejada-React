@@ -56,7 +56,7 @@ const EmployeesDep = () => {
 
   return (
     <>
-      <Col lg={7} className=" p-0 m-0">
+      <Col lg={7} md={7}  className=" p-0 m-0">
         <div className="style-changpaa-ti border-bottom">
           Employee Department table
         </div>

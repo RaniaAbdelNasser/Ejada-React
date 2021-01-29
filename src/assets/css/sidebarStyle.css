@@ -2,6 +2,7 @@
     background-color: 
     #f8fafb;
     height: 100vh;
+    max-height: 600px;
     width: 240px;
     /* padding-bottom: 62%; */
     position: -webkit-sticky; /* Safari & IE */

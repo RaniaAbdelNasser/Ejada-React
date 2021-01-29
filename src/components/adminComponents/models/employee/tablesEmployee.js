@@ -34,7 +34,7 @@ const TablesEmployees = (props) => {
   return (
     <>
       <Row className="m-2">
-        <Table striped bordered hover responsive="sm" responsive className="shadow">
+        <Table striped bordered hover responsive="sm" responsive="md" responsive className="shadow">
           <thead>
             <tr>
               <th>#</th>

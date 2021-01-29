@@ -27,7 +27,7 @@ const TablesDepartment = (props) => {
 
   return (
     <Row className="m-2">
-      <Table striped bordered hover responsive="sm" className="mt-1">
+      <Table striped bordered hover responsive="sm" responsive className="mt-1">
         <thead>
           <tr>
             <th>Id</th>

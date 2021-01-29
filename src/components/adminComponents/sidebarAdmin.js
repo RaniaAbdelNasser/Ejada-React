@@ -17,7 +17,7 @@ const SidebarAdmin = () => {
     <div>
       <div className=" grid-body">
         <Row className="m-0 p-0 ">
-          <Col xs lg="3" className=" p-0 ">
+          <Col xs lg="3" md="3" className=" p-0 ">
             <div className="style-sidebar-accountsettings border-right ">
               <div className="p-2 border-bottom">
                 <Row className=" m-0 mb-3 "></Row>
