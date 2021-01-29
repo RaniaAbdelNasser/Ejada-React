@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.classImage{
+  /* background: url('/img/colleagues.jpg') center top no-repeat ; */
+  background-size: cover;
+height: 450px;
+  position: relative;
+}
+.registerBackGroundColor{
+
+  background-color: #F8FAFB;
+}
+.logo-white{
+
+  z-index: 999;
+  margin-left: 30px;
+  
+}
+
+@media (max-width: 768px) {
+
+  .logo-white{
+
+      z-index: 999;
+      margin-left: 30px;
+    }
+
+
+}
+
+.app-backcolor-blue{
+  background-color: #014496 !important;
+}
+

@@ -1,0 +1,159 @@
+.title-card-course{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #ED1C24;
+
+
+}
+.text-card-course{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #8B8A8A;
+
+
+}
+
+.title-cover{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color:#FFFFFF;
+
+
+}
+.cover-pic{
+
+    content:'';
+    background: url('../images/team.png') no-repeat  center;
+    position: relative;
+    top:0px;
+    left: 0px;
+    width:100%;
+   
+    z-index:0.5;
+    height: 300px;
+}
+.title-of-objective{
+
+
+    font-size: 28px;
+  color: #002347;
+  /* text-transform: uppercase; */
+  text-align: center;
+  font-weight: 700;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.title-of-objective::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 175px;
+    height: 3px;
+    background: #ED1C24;
+    bottom: 0;
+    /* left: calc(50% - 20px); */
+  }
+  .title-of-objective::before {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 1px;
+    background: #ddd;
+    bottom: 1px;
+   
+  }
+  .desc-of-objective{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color:#7B838A;
+
+  }
+  .title-Order-List{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    color:#BA1A20;
+padding-bottom: 30px ;
+padding-top: 10px ;
+  }
+  .subtitle-Order-List{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color:#7B838A;
+
+padding-top: 15px;
+  }
+  .material-row{
+
+    /* margin-left: 25px !important; */
+    margin-right:100px !important;
+    border-style: solid;
+    border-color:#F8FAFB;
+    background-color: #F8FAFB;
+    border-width: 0.5px;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  @media (max-width: 1024px) {
+
+    .material-row{
+      border:#DEE2E6 ;
+      margin-left: 0 !important;
+      margin-right:0 !important;
+      border-style: solid;
+      border-color:#DEE2E6 ;
+      border-width: 0.5px;
+      border-radius: 5px;
+     
+      
+
+    }
+  }
+
+  .btn-download{
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 15px !important;
+    color: #7B838A !important;
+  
+    letter-spacing:-0.47px;
+   
+ }
+  @media (max-width: 768px) {
+
+    .btn-download{
+      font-style: normal;
+      font-weight: 500 !important;
+      font-size: 15px !important;
+      color: #7B838A !important;
+       float:right
+    }
+  }
+  .mt-t1{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    color: #1C1E21;
+  
+    letter-spacing:-0.47px;
+
+  }
+  .mt-t2{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #8B8A8A;
+  
+  
+
+  }

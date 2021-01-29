@@ -1,0 +1,101 @@
+.our-courses-container{
+
+    background-color: #F9F9FF;
+}
+.section-title{
+
+    text-align: center;
+     
+    font-style: normal;
+    font-weight:  700;
+    font-size:36px;
+    color: #000000;
+    letter-spacing:1px;
+}
+
+.section-description{
+
+
+    text-align: center;
+     
+    font-style: normal;
+    font-weight:  400;
+    font-size:17px;
+    color: #8B8A8A;
+    letter-spacing:1px;
+}
+
+.lablel-color{
+    color: #DEE2E6 !important;
+    font-weight:  500;
+
+}
+
+.event-container{
+
+    background-color: #1C1E21;
+}
+.contant-container {
+    background-color: black;
+}
+.section-title-dark{
+
+    text-align: center;
+     
+    font-style: normal;
+    font-weight:  700;
+    font-size:36px;
+    color: #FFFFFF;
+    letter-spacing:1px;
+}
+
+.section-description-dark{
+
+
+    text-align: center;
+     
+    font-style: normal;
+    font-weight:  400;
+    font-size:17px;
+    color: #F9F9FF;
+    letter-spacing:1px;
+}
+.title-card-teacher{
+
+    text-align: center;
+     
+    font-style: normal;
+    font-weight:  700;
+    font-size:17px;
+    color: #000000;
+    letter-spacing:1px;
+
+}
+.subtitle-card-teacher{
+
+    text-align: center;
+     
+    font-style: normal;
+    font-weight:  500;
+    font-size:12px;
+    color:#7B838A;
+    letter-spacing:1px;
+
+}
+.text-card-teacher{
+
+    text-align: center;
+     
+    font-style: normal;
+    font-weight:  400;
+    font-size:12px;
+    color:#7B838A;
+    letter-spacing:0px;
+
+}
+.center {
+    margin: auto !important;
+   
+    text-align: center;
+    padding: 10px;
+  }
