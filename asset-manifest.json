@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RaniaAbdelNasser/Ejada-React/static/css/main.cb0d6eb5.chunk.css",
+    "main.js": "/RaniaAbdelNasser/Ejada-React/static/js/main.bd32ee09.chunk.js",
+    "main.js.map": "/RaniaAbdelNasser/Ejada-React/static/js/main.bd32ee09.chunk.js.map",
+    "runtime-main.js": "/RaniaAbdelNasser/Ejada-React/static/js/runtime-main.3c883836.js",
+    "runtime-main.js.map": "/RaniaAbdelNasser/Ejada-React/static/js/runtime-main.3c883836.js.map",
+    "static/css/2.211bd1fb.chunk.css": "/RaniaAbdelNasser/Ejada-React/static/css/2.211bd1fb.chunk.css",
+    "static/js/2.321fe88d.chunk.js": "/RaniaAbdelNasser/Ejada-React/static/js/2.321fe88d.chunk.js",
+    "static/js/2.321fe88d.chunk.js.map": "/RaniaAbdelNasser/Ejada-React/static/js/2.321fe88d.chunk.js.map",
+    "index.html": "/RaniaAbdelNasser/Ejada-React/index.html",
+    "static/css/2.211bd1fb.chunk.css.map": "/RaniaAbdelNasser/Ejada-React/static/css/2.211bd1fb.chunk.css.map",
+    "static/css/main.cb0d6eb5.chunk.css.map": "/RaniaAbdelNasser/Ejada-React/static/css/main.cb0d6eb5.chunk.css.map",
+    "static/js/2.321fe88d.chunk.js.LICENSE.txt": "/RaniaAbdelNasser/Ejada-React/static/js/2.321fe88d.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/RaniaAbdelNasser/Ejada-React/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c883836.js",
+    "static/css/2.211bd1fb.chunk.css",
+    "static/js/2.321fe88d.chunk.js",
+    "static/css/main.cb0d6eb5.chunk.css",
+    "static/js/main.bd32ee09.chunk.js"
+  ]
+}
